@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=slice&height=250&section=header&text=DaHee%20Jeon&fontSize=70&fontAlign=75&fontAlignY=40&fontColor=fffff9&desc=꿈나무%20개발자%20&descAlignY=63&descAlign=88&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=slice&height=250&section=header&text=DaHee%20Jeon&fontSize=70&fontAlign=75&fontAlignY=40&fontColor=fffff9&desc=꿈나무%20개발자%20♬&descAlignY=63&descAlign=88&animation=twinkling)
 
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
